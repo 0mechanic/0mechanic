@@ -9,7 +9,7 @@ val MaxTalbushkin = developer {
     links {
         github = "@0mechanic"
         website = "0mechanic.github.io"
-        telegran = "@0mechanic"
+        telegran = "@mx0mechanic"
     }
 }
 ```
