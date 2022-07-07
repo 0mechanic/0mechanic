@@ -1,5 +1,5 @@
 ```kotlin
-val MaxTalbushkin = developer {
+val Person = developer {
     about {
         name = "Max Talbushkin"
         company = Concern GRANIT JSC
